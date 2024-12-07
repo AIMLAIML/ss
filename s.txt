@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ///aiml
 
 
 BIET
+=======
+/// swetha///
+
+
+DAVANGERE
+>>>>>>> 0cd79f12b2c8bf5131862d80f4d802734f9b44db
